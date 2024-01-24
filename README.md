@@ -9,5 +9,4 @@
 <ul>
   <li>Seeder directory and it contain 3 seeder files for states,countries,centers</li>
   <li>Migration directory and it contain 3 migration files for states,countries,centers</li>
-  <li></li>
 </ul>
